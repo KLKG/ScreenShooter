@@ -2,6 +2,6 @@
 # Diese .gitignore-Datei wurde von Microsoft(R) Visual Studio automatisch erstellt.
 ################################################################################
 
-/ScreenShooter/obj/Debug
-/.vs/ScreenShooter/v15/Server/sqlite3
-/.vs/ScreenShooter/v15
+**/bin/**
+**/obj/**
+**/.vs/**
